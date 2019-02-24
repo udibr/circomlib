@@ -111,7 +111,3 @@ template Multiplexer(wIn, nIn) {
     }
     dec.success === 1;
 }
-
-component main = Multiplexer(8,3);
-
-
